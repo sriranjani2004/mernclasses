@@ -1,0 +1,24 @@
+
+1.  Html:5
+
+2. It specifies the version of the html in the beginning of html document.
+  
+3.A void element in HTML is an element that cannot have any content inside it and doesn't require a closing tag. Void elements are self-closing and that represent content that doesn't have a textual or visual representation on its own
+<img>
+<br>
+<hr>
+<input>
+<link>
+
+
+4. Html elements are structural components such as tag like <p> <div> they contain text content and has opening and closing tag. Attributes provide additional info like navigating to a page they modify the appearance of the element <a href =“./“>example</a>
+
+5. 
+* HTML Elements: Represent the structure and content of a web page using tags (e.g., <p>, <h1>, <a>).
+* HTML Attributes: Provide additional information about elements, modifying their behavior or appearance (e.g., href, class).
+* Importance: Elements and attributes are essential for creating a structured, meaningful, and accessible HTML document, defining content, structure, and styling on the web.
+6.Metadata is information about data, and in the context of a web page, it includes information about the document itself rather than the content. The <meta> tag is placed within the <head> section of an HTML document. 
+<meta charset="UTF-8">
+ declare the character encoding
+
+6. Using local image <img src="example.jpg" alt="Description of the image">
